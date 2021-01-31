@@ -1,3 +1,4 @@
+//vijayasimhareddy
 #include<stdio.h>
 #include<stdlib.h>
 struct tnode{
@@ -106,4 +107,4 @@ void main(){
       }while(op != 6);
 }
 
-© 2021 GitHub, Inc.
+Â© 2021 GitHub, Inc.
